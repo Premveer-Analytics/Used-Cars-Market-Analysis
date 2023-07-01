@@ -1,3 +1,7 @@
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
@@ -7,7 +11,7 @@
  *
  * @author wwwpr
  */
-public class Frame1 extends javax.swing.JFrame {
+public class Frame1 extends javax.swing.JFrame implements ActionListener {
 
     /**
      * Creates new form Frame1
@@ -98,4 +102,9 @@ public class Frame1 extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel1;
     private javax.swing.JTextField txt;
     // End of variables declaration//GEN-END:variables
+
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }
