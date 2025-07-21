@@ -1,5 +1,5 @@
 -- QUERY 1
--- alter table cardekho_dataset rename column MyUnknownColumn to Sno;
+ alter table cardekho_dataset rename column MyUnknownColumn to Sno;
 
 -- QUERY 2
 -- checking for null values
