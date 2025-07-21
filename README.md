@@ -87,11 +87,11 @@ This project utilizes SQL queries and Power BI Dashboards to uncover vital marke
 
 Dataset : Taken From Kaggle 
 
-MySQL Queries: https://github.com/AmruhaAhmed/Used-Cars-Market-Analysis/tree/main/Queries
+MySQL Queries: 
 
-Power BI Dashboard : https://github.com/AmruhaAhmed/Used-Cars-Market-Analysis/tree/main/power%20bi%20dashboard
+Power BI Dashboard : 
 
-Outputs:  https://github.com/AmruhaAhmed/Used-Cars-Market-Analysis/tree/main/outputs
+Outputs: 
 
 ## Dashboards
 
