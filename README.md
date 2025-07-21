@@ -4,6 +4,8 @@ This project aims to analyze India's used cars market to identify pricing trends
 
 ## Dataset 📂
 
+Dataset : Taken From Kaggle 
+
 The data is from CarDekho Used Car Dataset available on Kaggle, containing 15411 vehicle listings. 
 The columns are :
 1. car_name - text 
@@ -82,16 +84,6 @@ This project utilizes SQL queries and Power BI Dashboards to uncover vital marke
 
 5. Helps sellers to identify the brands and models in demand and stock up the inventory accordingly. 🏎🚗
 
-
-## Links 🔗
-
-Dataset : Taken From Kaggle 
-
-MySQL Queries: 
-
-Power BI Dashboard : 
-
-Outputs: 
 
 ## Dashboards
 
