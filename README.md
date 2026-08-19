@@ -1,5 +1,7 @@
 # Used Cars Market Analysis 🚗🏎🚔
 
+**[View the interactive dashboard →](https://premveer-analytics.github.io/Used-Cars-Market-Analysis/)**
+
 This project aims to analyze India's used cars market to identify pricing trends, best and worst car deals, market dynamics, premium brands and customer preferences by using SQL and Power BI. 📊📉📈
 
 ## Dataset 📂
@@ -89,7 +91,7 @@ This project utilizes SQL queries and Power BI Dashboards to uncover vital marke
 
 ### Executive Summary Dashboard 
 
-<img width="1122" height="630" alt="executive summary dashboard" src="https://github.com/user-attachments/assets/c704113a-513c-4caa-8d15-5a3574d4b1cc" />
+<img width="1100" alt="executive summary dashboard" src="docs/img/powerbi-summary.png" />
 
 In the Executive Summary Dashboard, the following elements were used:
 
@@ -105,7 +107,7 @@ In the Executive Summary Dashboard, the following elements were used:
 
 ### Brand Analysis Dashboard
 
-<img width="1127" height="630" alt="brand analysis dashboard" src="https://github.com/user-attachments/assets/ea43cf86-2474-403c-b49d-29c1bd8b5531" />
+<img width="1100" alt="brand analysis dashboard" src="docs/img/powerbi-brand-analysis.png" />
 
 In the Brand Analysis Dashboard, the following elements were used:
 
@@ -121,7 +123,7 @@ In the Brand Analysis Dashboard, the following elements were used:
 
 ### Drive Insights Dashboard
 
-<img width="1127" height="630" alt="drive insights dashboard" src="https://github.com/user-attachments/assets/0eb07774-f064-4828-8ecd-25bfaf71abd6" />
+<img width="1100" alt="drive insights dashboard" src="docs/img/powerbi-drive-insights.png" />
 
 In the Drive Insights Dashboard, the following elements were used :
 
