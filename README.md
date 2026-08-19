@@ -1,7 +1,5 @@
 # Used Cars Market Analysis 🚗🏎🚔
 
-**[View the interactive dashboard →](https://premveer-analytics.github.io/Used-Cars-Market-Analysis/)**
-
 This project aims to analyze India's used cars market to identify pricing trends, best and worst car deals, market dynamics, premium brands and customer preferences by using SQL and Power BI. 📊📉📈
 
 ## Dataset 📂
